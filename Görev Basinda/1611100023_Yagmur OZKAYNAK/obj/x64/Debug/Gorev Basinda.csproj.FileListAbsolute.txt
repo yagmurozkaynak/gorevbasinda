@@ -1,0 +1,15 @@
+D:\Görev Basinda\1611100023_Yagmur OZKAYNAK\bin\x64\Debug\gorevbasinda.exe.config
+D:\Görev Basinda\1611100023_Yagmur OZKAYNAK\bin\x64\Debug\gorevbasinda.exe.manifest
+D:\Görev Basinda\1611100023_Yagmur OZKAYNAK\bin\x64\Debug\gorevbasinda.application
+D:\Görev Basinda\1611100023_Yagmur OZKAYNAK\bin\x64\Debug\gorevbasinda.exe
+D:\Görev Basinda\1611100023_Yagmur OZKAYNAK\bin\x64\Debug\gorevbasinda.pdb
+D:\Görev Basinda\1611100023_Yagmur OZKAYNAK\obj\x64\Debug\Gorev Basinda.csprojResolveAssemblyReference.cache
+D:\Görev Basinda\1611100023_Yagmur OZKAYNAK\obj\x64\Debug\gorevbasinda.Form1.resources
+D:\Görev Basinda\1611100023_Yagmur OZKAYNAK\obj\x64\Debug\gorevbasinda.Form4.resources
+D:\Görev Basinda\1611100023_Yagmur OZKAYNAK\obj\x64\Debug\gorevbasinda.Properties.Resources.resources
+D:\Görev Basinda\1611100023_Yagmur OZKAYNAK\obj\x64\Debug\Gorev Basinda.csproj.GenerateResource.cache
+D:\Görev Basinda\1611100023_Yagmur OZKAYNAK\obj\x64\Debug\Gorev Basinda.csproj.CoreCompileInputs.cache
+D:\Görev Basinda\1611100023_Yagmur OZKAYNAK\obj\x64\Debug\gorevbasinda.exe.manifest
+D:\Görev Basinda\1611100023_Yagmur OZKAYNAK\obj\x64\Debug\gorevbasinda.application
+D:\Görev Basinda\1611100023_Yagmur OZKAYNAK\obj\x64\Debug\gorevbasinda.exe
+D:\Görev Basinda\1611100023_Yagmur OZKAYNAK\obj\x64\Debug\gorevbasinda.pdb

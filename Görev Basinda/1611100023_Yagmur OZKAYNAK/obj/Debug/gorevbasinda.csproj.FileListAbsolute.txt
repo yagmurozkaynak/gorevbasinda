@@ -1,0 +1,71 @@
+c:\users\sami\documents\visual studio 2013\Projects\IDusenCisimler\IDusenCisimler\bin\Debug\IDusenCisimler.exe.config
+c:\users\sami\documents\visual studio 2013\Projects\IDusenCisimler\IDusenCisimler\bin\Debug\IDusenCisimler.exe
+c:\users\sami\documents\visual studio 2013\Projects\IDusenCisimler\IDusenCisimler\bin\Debug\IDusenCisimler.pdb
+c:\users\sami\documents\visual studio 2013\Projects\IDusenCisimler\IDusenCisimler\obj\Debug\IDusenCisimler.csprojResolveAssemblyReference.cache
+c:\users\sami\documents\visual studio 2013\Projects\IDusenCisimler\IDusenCisimler\obj\Debug\IDusenCisimler.Form1.resources
+c:\users\sami\documents\visual studio 2013\Projects\IDusenCisimler\IDusenCisimler\obj\Debug\IDusenCisimler.Properties.Resources.resources
+c:\users\sami\documents\visual studio 2013\Projects\IDusenCisimler\IDusenCisimler\obj\Debug\IDusenCisimler.csproj.GenerateResource.Cache
+c:\users\sami\documents\visual studio 2013\Projects\IDusenCisimler\IDusenCisimler\obj\Debug\IDusenCisimler.exe
+c:\users\sami\documents\visual studio 2013\Projects\IDusenCisimler\IDusenCisimler\obj\Debug\IDusenCisimler.pdb
+C:\Users\ELAB2-01\Desktop\IDusenCisimler\IDusenCisimler\bin\Debug\IDusenCisimler.exe.config
+C:\Users\ELAB2-01\Desktop\IDusenCisimler\IDusenCisimler\obj\Debug\IDusenCisimler.exe
+C:\Users\ELAB2-01\Desktop\IDusenCisimler\IDusenCisimler\obj\Debug\IDusenCisimler.pdb
+C:\Users\ELAB2-01\Desktop\IDusenCisimler\IDusenCisimler\bin\Debug\IDusenCisimler.exe
+C:\Users\ELAB2-01\Desktop\IDusenCisimler\IDusenCisimler\bin\Debug\IDusenCisimler.pdb
+C:\Users\ELAB2-01\Desktop\IDusenCisimler\IDusenCisimler\obj\Debug\IDusenCisimler.csprojResolveAssemblyReference.cache
+C:\Users\ELAB2-01\Desktop\IDusenCisimler\IDusenCisimler\obj\Debug\IDusenCisimler.Form1.resources
+C:\Users\ELAB2-01\Desktop\IDusenCisimler\IDusenCisimler\obj\Debug\IDusenCisimler.Properties.Resources.resources
+C:\Users\ELAB2-01\Desktop\IDusenCisimler\IDusenCisimler\obj\Debug\IDusenCisimler.csproj.GenerateResource.Cache
+D:\IDusenCisimler\IDusenCisimler\bin\Debug\IDusenCisimler.exe.config
+D:\IDusenCisimler\IDusenCisimler\obj\Debug\IDusenCisimler.exe
+D:\IDusenCisimler\IDusenCisimler\obj\Debug\IDusenCisimler.pdb
+F:\IDusenCisimler\IDusenCisimler\bin\Debug\IDusenCisimler.exe.config
+F:\IDusenCisimler\IDusenCisimler\obj\Debug\IDusenCisimler.exe
+F:\IDusenCisimler\IDusenCisimler\obj\Debug\IDusenCisimler.pdb
+F:\IDusenCisimler\IDusenCisimler\bin\Debug\IDusenCisimler.exe
+F:\IDusenCisimler\IDusenCisimler\bin\Debug\IDusenCisimler.pdb
+F:\IDusenCisimler\IDusenCisimler\obj\Debug\IDusenCisimler.csprojResolveAssemblyReference.cache
+F:\IDusenCisimler\IDusenCisimler\obj\Debug\IDusenCisimler.Form1.resources
+F:\IDusenCisimler\IDusenCisimler\obj\Debug\IDusenCisimler.Properties.Resources.resources
+F:\IDusenCisimler\IDusenCisimler\obj\Debug\IDusenCisimler.csproj.GenerateResource.Cache
+D:\IDusenCisimler\IDusenCisimler\bin\Debug\IDusenCisimler.exe
+D:\IDusenCisimler\IDusenCisimler\bin\Debug\IDusenCisimler.pdb
+D:\IDusenCisimler\IDusenCisimler\obj\Debug\IDusenCisimler.csprojResolveAssemblyReference.cache
+D:\IDusenCisimler\IDusenCisimler\obj\Debug\IDusenCisimler.Form1.resources
+D:\IDusenCisimler\IDusenCisimler\obj\Debug\IDusenCisimler.Properties.Resources.resources
+D:\IDusenCisimler\IDusenCisimler\obj\Debug\IDusenCisimler.csproj.GenerateResource.Cache
+F:\IDusenCisimler\IDusenCisimler\obj\Debug\IDusenCisimler.Form4.resources
+D:\IDusenCisimler\IDusenCisimler\obj\Debug\IDusenCisimler.Form4.resources
+D:\IDusenCisimler\IDusenCisimler\obj\Debug\IDusenCisimler.csproj.CoreCompileInputs.cache
+C:\Users\Casperpc\Desktop\yagmur ozkaynak\IDusenCisimler\bin\Debug\IDusenCisimler.exe.config
+C:\Users\Casperpc\Desktop\yagmur ozkaynak\IDusenCisimler\bin\Debug\IDusenCisimler.exe
+C:\Users\Casperpc\Desktop\yagmur ozkaynak\IDusenCisimler\bin\Debug\IDusenCisimler.pdb
+C:\Users\Casperpc\Desktop\yagmur ozkaynak\IDusenCisimler\obj\Debug\IDusenCisimler.csprojResolveAssemblyReference.cache
+C:\Users\Casperpc\Desktop\yagmur ozkaynak\IDusenCisimler\obj\Debug\IDusenCisimler.Form1.resources
+C:\Users\Casperpc\Desktop\yagmur ozkaynak\IDusenCisimler\obj\Debug\IDusenCisimler.Form4.resources
+C:\Users\Casperpc\Desktop\yagmur ozkaynak\IDusenCisimler\obj\Debug\IDusenCisimler.Properties.Resources.resources
+C:\Users\Casperpc\Desktop\yagmur ozkaynak\IDusenCisimler\obj\Debug\IDusenCisimler.csproj.GenerateResource.cache
+C:\Users\Casperpc\Desktop\yagmur ozkaynak\IDusenCisimler\obj\Debug\IDusenCisimler.csproj.CoreCompileInputs.cache
+C:\Users\Casperpc\Desktop\yagmur ozkaynak\IDusenCisimler\obj\Debug\IDusenCisimler.exe
+C:\Users\Casperpc\Desktop\yagmur ozkaynak\IDusenCisimler\obj\Debug\IDusenCisimler.pdb
+F:\Yagmur OZKAYNAK\IDusenCisimler\bin\Debug\IDusenCisimler.exe.config
+F:\Yagmur OZKAYNAK\IDusenCisimler\obj\Debug\IDusenCisimler.exe
+F:\Yagmur OZKAYNAK\IDusenCisimler\obj\Debug\IDusenCisimler.pdb
+F:\Yagmur OZKAYNAK\IDusenCisimler\bin\Debug\IDusenCisimler.exe
+F:\Yagmur OZKAYNAK\IDusenCisimler\bin\Debug\IDusenCisimler.pdb
+F:\Yagmur OZKAYNAK\IDusenCisimler\obj\Debug\IDusenCisimler.csprojResolveAssemblyReference.cache
+F:\Yagmur OZKAYNAK\IDusenCisimler\obj\Debug\IDusenCisimler.Form1.resources
+F:\Yagmur OZKAYNAK\IDusenCisimler\obj\Debug\IDusenCisimler.Form4.resources
+F:\Yagmur OZKAYNAK\IDusenCisimler\obj\Debug\IDusenCisimler.Properties.Resources.resources
+F:\Yagmur OZKAYNAK\IDusenCisimler\obj\Debug\IDusenCisimler.csproj.GenerateResource.Cache
+C:\Users\Casperpc\Desktop\1611100023_Yagmur OZKAYNAK\bin\Debug\IDusenCisimler.exe.config
+C:\Users\Casperpc\Desktop\1611100023_Yagmur OZKAYNAK\bin\Debug\IDusenCisimler.exe
+C:\Users\Casperpc\Desktop\1611100023_Yagmur OZKAYNAK\bin\Debug\IDusenCisimler.pdb
+C:\Users\Casperpc\Desktop\1611100023_Yagmur OZKAYNAK\obj\Debug\IDusenCisimler.csprojResolveAssemblyReference.cache
+C:\Users\Casperpc\Desktop\1611100023_Yagmur OZKAYNAK\obj\Debug\IDusenCisimler.Form1.resources
+C:\Users\Casperpc\Desktop\1611100023_Yagmur OZKAYNAK\obj\Debug\IDusenCisimler.Form4.resources
+C:\Users\Casperpc\Desktop\1611100023_Yagmur OZKAYNAK\obj\Debug\IDusenCisimler.Properties.Resources.resources
+C:\Users\Casperpc\Desktop\1611100023_Yagmur OZKAYNAK\obj\Debug\IDusenCisimler.csproj.GenerateResource.cache
+C:\Users\Casperpc\Desktop\1611100023_Yagmur OZKAYNAK\obj\Debug\IDusenCisimler.csproj.CoreCompileInputs.cache
+C:\Users\Casperpc\Desktop\1611100023_Yagmur OZKAYNAK\obj\Debug\IDusenCisimler.exe
+C:\Users\Casperpc\Desktop\1611100023_Yagmur OZKAYNAK\obj\Debug\IDusenCisimler.pdb

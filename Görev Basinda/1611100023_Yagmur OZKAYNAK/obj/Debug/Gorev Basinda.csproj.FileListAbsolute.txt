@@ -1,0 +1,78 @@
+C:\Users\Casperpc\Desktop\1611100023_Yagmur OZKAYNAK\obj\Debug\Gorev Basinda.csprojResolveAssemblyReference.cache
+C:\Users\Casperpc\Desktop\1611100023_Yagmur OZKAYNAK\obj\Debug\Gorev Basinda.csproj.GenerateResource.cache
+C:\Users\Casperpc\Desktop\1611100023_Yagmur OZKAYNAK\obj\Debug\Gorev Basinda.csproj.CoreCompileInputs.cache
+C:\Users\Casperpc\Desktop\1611100023_Yagmur OZKAYNAK\obj\Debug\Gorevbasinda.Form1.resources
+C:\Users\Casperpc\Desktop\1611100023_Yagmur OZKAYNAK\obj\Debug\gorevbasinda.Form4.resources
+F:\tez\1611100023_Yagmur OZKAYNAK\obj\Debug\Gorev Basinda.csprojResolveAssemblyReference.cache
+F:\tez\1611100023_Yagmur OZKAYNAK\obj\Debug\gorevbasinda.Form1.resources
+F:\tez\1611100023_Yagmur OZKAYNAK\obj\Debug\gorevbasinda.Form4.resources
+F:\tez\1611100023_Yagmur OZKAYNAK\obj\Debug\Gorev Basinda.csproj.GenerateResource.Cache
+F:\tez\1611100023_Yagmur OZKAYNAK\bin\Debug\gorevbasinda.exe.config
+F:\tez\1611100023_Yagmur OZKAYNAK\obj\Debug\gorevbasinda.exe
+F:\tez\1611100023_Yagmur OZKAYNAK\obj\Debug\gorevbasinda.pdb
+F:\tez\1611100023_Yagmur OZKAYNAK\bin\Debug\gorevbasinda.exe
+F:\tez\1611100023_Yagmur OZKAYNAK\bin\Debug\gorevbasinda.pdb
+F:\tez\1611100023_Yagmur OZKAYNAK\obj\Debug\gorevbasinda.Properties.Resources.resources
+C:\Users\Casperpc\Desktop\1611100023_Yagmur OZKAYNAK\bin\Debug\gorevbasinda.exe.config
+C:\Users\Casperpc\Desktop\1611100023_Yagmur OZKAYNAK\bin\Debug\gorevbasinda.exe
+C:\Users\Casperpc\Desktop\1611100023_Yagmur OZKAYNAK\bin\Debug\gorevbasinda.pdb
+C:\Users\Casperpc\Desktop\1611100023_Yagmur OZKAYNAK\obj\Debug\gorevbasinda.Properties.Resources.resources
+C:\Users\Casperpc\Desktop\1611100023_Yagmur OZKAYNAK\obj\Debug\gorevbasinda.exe
+C:\Users\Casperpc\Desktop\1611100023_Yagmur OZKAYNAK\obj\Debug\gorevbasinda.pdb
+D:\1611100023_Yagmur OZKAYNAK\bin\Debug\gorevbasinda.exe.config
+D:\1611100023_Yagmur OZKAYNAK\bin\Debug\gorevbasinda.exe
+D:\1611100023_Yagmur OZKAYNAK\bin\Debug\gorevbasinda.pdb
+D:\1611100023_Yagmur OZKAYNAK\obj\Debug\Gorev Basinda.csprojResolveAssemblyReference.cache
+D:\1611100023_Yagmur OZKAYNAK\obj\Debug\gorevbasinda.Form1.resources
+D:\1611100023_Yagmur OZKAYNAK\obj\Debug\gorevbasinda.Form4.resources
+D:\1611100023_Yagmur OZKAYNAK\obj\Debug\gorevbasinda.Properties.Resources.resources
+D:\1611100023_Yagmur OZKAYNAK\obj\Debug\Gorev Basinda.csproj.GenerateResource.cache
+D:\1611100023_Yagmur OZKAYNAK\obj\Debug\Gorev Basinda.csproj.CoreCompileInputs.cache
+D:\1611100023_Yagmur OZKAYNAK\obj\Debug\gorevbasinda.exe
+D:\1611100023_Yagmur OZKAYNAK\obj\Debug\gorevbasinda.pdb
+F:\1611100023_Yagmur OZKAYNAK\bin\Debug\gorevbasinda.exe.config
+F:\1611100023_Yagmur OZKAYNAK\obj\Debug\gorevbasinda.exe
+F:\1611100023_Yagmur OZKAYNAK\obj\Debug\gorevbasinda.pdb
+F:\1611100023_Yagmur OZKAYNAK\bin\Debug\gorevbasinda.exe
+F:\1611100023_Yagmur OZKAYNAK\bin\Debug\gorevbasinda.pdb
+F:\1611100023_Yagmur OZKAYNAK\obj\Debug\Gorev Basinda.csprojResolveAssemblyReference.cache
+F:\1611100023_Yagmur OZKAYNAK\obj\Debug\gorevbasinda.Form1.resources
+F:\1611100023_Yagmur OZKAYNAK\obj\Debug\gorevbasinda.Form4.resources
+F:\1611100023_Yagmur OZKAYNAK\obj\Debug\gorevbasinda.Properties.Resources.resources
+F:\1611100023_Yagmur OZKAYNAK\obj\Debug\Gorev Basinda.csproj.GenerateResource.Cache
+E:\1611100023_Yagmur OZKAYNAK\bin\Debug\gorevbasinda.exe.config
+E:\1611100023_Yagmur OZKAYNAK\obj\Debug\gorevbasinda.exe
+E:\1611100023_Yagmur OZKAYNAK\obj\Debug\gorevbasinda.pdb
+E:\1611100023_Yagmur OZKAYNAK\bin\Debug\gorevbasinda.exe
+E:\1611100023_Yagmur OZKAYNAK\bin\Debug\gorevbasinda.pdb
+E:\1611100023_Yagmur OZKAYNAK\obj\Debug\Gorev Basinda.csprojResolveAssemblyReference.cache
+E:\1611100023_Yagmur OZKAYNAK\obj\Debug\gorevbasinda.Form1.resources
+E:\1611100023_Yagmur OZKAYNAK\obj\Debug\gorevbasinda.Form4.resources
+E:\1611100023_Yagmur OZKAYNAK\obj\Debug\gorevbasinda.Properties.Resources.resources
+E:\1611100023_Yagmur OZKAYNAK\obj\Debug\Gorev Basinda.csproj.GenerateResource.Cache
+D:\Yeni klasör (2)\1611100023_Yagmur OZKAYNAK\bin\Debug\gorevbasinda.exe.config
+D:\Yeni klasör (2)\1611100023_Yagmur OZKAYNAK\bin\Debug\gorevbasinda.exe
+D:\Yeni klasör (2)\1611100023_Yagmur OZKAYNAK\bin\Debug\gorevbasinda.pdb
+D:\Yeni klasör (2)\1611100023_Yagmur OZKAYNAK\obj\Debug\Gorev Basinda.csprojResolveAssemblyReference.cache
+D:\Yeni klasör (2)\1611100023_Yagmur OZKAYNAK\obj\Debug\gorevbasinda.Form1.resources
+D:\Yeni klasör (2)\1611100023_Yagmur OZKAYNAK\obj\Debug\gorevbasinda.Form4.resources
+D:\Yeni klasör (2)\1611100023_Yagmur OZKAYNAK\obj\Debug\gorevbasinda.Properties.Resources.resources
+D:\Yeni klasör (2)\1611100023_Yagmur OZKAYNAK\obj\Debug\Gorev Basinda.csproj.GenerateResource.cache
+D:\Yeni klasör (2)\1611100023_Yagmur OZKAYNAK\obj\Debug\Gorev Basinda.csproj.CoreCompileInputs.cache
+D:\Yeni klasör (2)\1611100023_Yagmur OZKAYNAK\obj\Debug\gorevbasinda.exe
+D:\Yeni klasör (2)\1611100023_Yagmur OZKAYNAK\obj\Debug\gorevbasinda.pdb
+D:\Görev Basinda\1611100023_Yagmur OZKAYNAK\bin\Debug\gorevbasinda.exe.config
+D:\Görev Basinda\1611100023_Yagmur OZKAYNAK\bin\Debug\gorevbasinda.exe
+D:\Görev Basinda\1611100023_Yagmur OZKAYNAK\bin\Debug\gorevbasinda.pdb
+D:\Görev Basinda\1611100023_Yagmur OZKAYNAK\obj\Debug\Gorev Basinda.csprojResolveAssemblyReference.cache
+D:\Görev Basinda\1611100023_Yagmur OZKAYNAK\obj\Debug\gorevbasinda.Form1.resources
+D:\Görev Basinda\1611100023_Yagmur OZKAYNAK\obj\Debug\gorevbasinda.Form4.resources
+D:\Görev Basinda\1611100023_Yagmur OZKAYNAK\obj\Debug\gorevbasinda.Properties.Resources.resources
+D:\Görev Basinda\1611100023_Yagmur OZKAYNAK\obj\Debug\Gorev Basinda.csproj.GenerateResource.cache
+D:\Görev Basinda\1611100023_Yagmur OZKAYNAK\obj\Debug\Gorev Basinda.csproj.CoreCompileInputs.cache
+D:\Görev Basinda\1611100023_Yagmur OZKAYNAK\obj\Debug\gorevbasinda.exe
+D:\Görev Basinda\1611100023_Yagmur OZKAYNAK\obj\Debug\gorevbasinda.pdb
+D:\Görev Basinda\1611100023_Yagmur OZKAYNAK\bin\Debug\gorevbasinda.exe.manifest
+D:\Görev Basinda\1611100023_Yagmur OZKAYNAK\bin\Debug\gorevbasinda.application
+D:\Görev Basinda\1611100023_Yagmur OZKAYNAK\obj\Debug\gorevbasinda.exe.manifest
+D:\Görev Basinda\1611100023_Yagmur OZKAYNAK\obj\Debug\gorevbasinda.application
